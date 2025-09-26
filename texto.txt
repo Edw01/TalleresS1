@@ -1,7 +1,11 @@
 echo "# TalleresS1" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "se realizan cambios"
 git branch -M main
 git remote add origin https://github.com/Edw01/TalleresS1.git
 git push -u origin main
+waaaa
+esta es otra linea de text
+testeando
+
